@@ -1,6 +1,9 @@
+import MainMessage from "./components/MainMessage";
+
 function App() {
   return (
-    <div className="App">
+    <div className={"App layout"}>
+      <MainMessage />
     </div>
   );
 }
